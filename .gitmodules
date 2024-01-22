@@ -1,0 +1,3 @@
+[submodule "PathApplication"]
+	path = PathApplication
+	url = https://github.com/Mord100/PathApplication.git
